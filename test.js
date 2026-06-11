@@ -4,3 +4,5 @@ setTimeout(() => {
 }, 2000);
 
 console.log("Tests completed!");
+
+console.log("This is a test message. from hammad");
